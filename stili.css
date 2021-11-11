@@ -13,5 +13,37 @@ body {
     height: 36px;
     padding: 5px;
     padding-right: 100px;
-    background-color: rgb(35, 35, 228);
+    background-color: rgb(63, 63, 230);
+}
+
+#fascia-navigazione {
+    height: 91px;
+    padding: 51px;
+    padding-right: 100;
+    font-size: 16px;
+}
+
+card {
+    font-size: 16px;
+}
+
+#bottone {
+    background-color: white;
+    border: rgb(174, 192, 12);
+    color: rgb(186, 189, 27);
+    font-weight: bolder;
+    
+}
+
+
+#card2 {
+    background-color: blue;
+    font-family: 'Montserrat', sans serif;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+}
+
+#mappa {
+    height: 30px;
+    width: 1400px;
 }
