@@ -4,8 +4,14 @@ body {
     font-family: 'Montserrat', 'sans-serif';
 }
 
+.blu {
+    background-color: blue;
+    color: #ffffff;
+}
+
 #fascia-superiore {
     height: 36px;
     padding: 5px;
     padding-right: 100px;
+    background-color: rgb(35, 35, 228);
 }
